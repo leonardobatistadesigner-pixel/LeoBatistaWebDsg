@@ -19,6 +19,7 @@ header{
 
 .logos{
      display:flex;
+    flex-wrap: wrap;
      justify-content: space-evenly;
      width:1500px;
      align-items: center;
